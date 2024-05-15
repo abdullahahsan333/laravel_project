@@ -1,0 +1,20 @@
+{
+    "name": "abdullah/abdullah",
+    "description": "Test",
+    "type": "laravel-theme",
+    "version": "1.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Abdullah",
+            "email": "abdullahalahsan@hotmail.com"
+        }
+    ],
+    "extra": {
+        "theme": {
+            "parent": "new theam",
+            "active": true,
+            "screenshot": "screenshot.png"
+        }
+    }
+}
